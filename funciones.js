@@ -1,1 +1,1 @@
-console.log("esta es la funcion jaja");
+console.log("seugnda clase a camiar jaja");
